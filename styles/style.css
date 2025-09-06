@@ -1,4 +1,9 @@
 
+    .container {
+      width: 80%;
+      margin: 1rem auto;
+    }
+    
     body {
       font-family: Arial, sans-serif;
       background: linear-gradient(to right, #de7016, #870a60);
